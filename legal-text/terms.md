@@ -48,7 +48,7 @@
 
 ## 第12条（当方への連絡方法）
 
-本アプリに関する利用者の当方への連絡又は問い合わせは、当方が別途指定するメールにより行うものとします。現在の公開ページ上のお問い合わせ先は joho1.knowledge.master@gmail.com です。
+本アプリに関する利用者の当方への連絡又は問い合わせは、当方が別途指定するGoogleフォームその他の方法により行うものとします。現在の公開ページ上のお問い合わせ先はお問い合わせフォーム（https://docs.google.com/forms/d/e/1FAIpQLSdlcGhn2As6v8Fosdggeu8mDwcjxlFUGOjoGZLN4vrMBEiKrQ/viewform?pli=1）です。
 
 ## 第13条（免責）
 
